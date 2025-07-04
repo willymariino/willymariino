@@ -10,7 +10,7 @@ Junior Full Stack Developer with a strong focus on building clean, maintainable,
 - MySQL
 - HTML5, CSS3
 
-### What I care about
+### Areas of Interest
 I work across the full stack, with a stronger focus on front-end development and UI implementation. My focus is on writing readable, modular code and developing features that serve real users. My projects are structured to explore specific technologies and design patterns in a practical context.
 
 ### Projects

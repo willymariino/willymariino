@@ -1,7 +1,8 @@
-## About Me
-# Hi, I'm Willy
+# Hi, I'm Willy :wave:
 
 Junior Full Stack Developer with a strong focus on building clean, maintainable, and responsive web applications.
+
+---
 
 ### Core Technologies
 - JavaScript (ES6+)
@@ -10,8 +11,12 @@ Junior Full Stack Developer with a strong focus on building clean, maintainable,
 - MySQL
 - HTML5, CSS3
 
+---
+
 ### Areas of Interest
 I work across the full stack, with a stronger focus on front-end development and UI implementation. My focus is on writing readable, modular code and developing features that serve real users. My projects are structured to explore specific technologies and design patterns in a practical context.
+
+---
 
 ### Projects
 Here are a few projects I've worked on:
@@ -21,6 +26,8 @@ Here are a few projects I've worked on:
 Single Page Application built with React and Context API, designed to fetch external data and display dynamic routes. Demonstrates global state management without prop drilling, navigation via React Router, and responsive detail views. Data is fetched from the D&D Monsters API.
 - [react-dc-comics](https://github.com/willymariino/react-dc-comics) – First React-based layout exercise focused on component structure, dynamic rendering, and responsive styling. The goal was to explore modular design and data-driven content using custom components and static data files.
 - [js-photo-blog](https://github.com/willymariino/js-photo-blog) – Photo blog built with HTML, CSS, and JavaScript to explore responsive layout design, DOM manipulation, and dynamic rendering with API data. Includes animations, overlays, and a component-style grid system.
+
+---
 
 ### Currently
 Building and refining full stack web apps, learning new tools, and exploring better ways to design software that scales.

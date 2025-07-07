@@ -1,7 +1,5 @@
 # Hi, I'm Willy :wave:
 
-Junior Full Stack Developer with a strong focus on building clean, maintainable, and responsive web applications.
-
 ---
 
 ### Core Technologies

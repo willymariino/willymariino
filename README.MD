@@ -22,6 +22,12 @@ Here are a few projects I've worked on:
 - [webapp-express](https://github.com/willymariino/webapp-express) – RESTful API backend built with Node.js, Express, and MySQL to support a blog/movie platform. Provides endpoints to fetch movie data and reviews, handles database operations, and enables CORS for client-side interaction from a React front-end.
 - [react-context-api](https://github.com/willymariino/react-context-api)
 Single Page Application built with React and Context API, designed to fetch external data and display dynamic routes. Demonstrates global state management without prop drilling, navigation via React Router, and responsive detail views. Data is fetched from the D&D Monsters API.
+- [React Multi-Field Post Form](https://github.com/willymariino/react-post-form)
+React app that features a multi-field form to create and submit posts to an external API. 
+Submitted posts are sent via HTTP POST requests and rendered in real time below the form.
+- [react-form](https://github.com/willymariino/react-form)
+React application for managing a to-do list. 
+Users can add and remove tasks via an input form with dynamic state updates using `useState`.
 - [react-dc-comics](https://github.com/willymariino/react-dc-comics) – First React-based layout exercise focused on component structure, dynamic rendering, and responsive styling. The goal was to explore modular design and data-driven content using custom components and static data files.
 - [js-photo-blog](https://github.com/willymariino/js-photo-blog) – Photo blog built with HTML, CSS, and JavaScript to explore responsive layout design, DOM manipulation, and dynamic rendering with API data. Includes animations, overlays, and a component-style grid system.
 

@@ -4,6 +4,8 @@
 
 ### Core Technologies
 - JavaScript (ES6+)
+- typescript
+- Unit Testing (Jest)
 - React
 - Node.js & Express
 - MySQL

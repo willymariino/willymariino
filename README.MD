@@ -27,8 +27,8 @@ I work across the full stack, with a stronger focus on front-end development and
 
 
 ### Previous Projects
-- [webapp-react](https://github.com/willymariino/webapp-react) – Front-end SPA built with React and Vite, designed to consume a REST API for a blog platform. Includes dynamic routing, responsive layout, and modular component structure. Connected to a Node.js + MySQL back-end 
-- [webapp-express](https://github.com/willymariino/webapp-express) – RESTful API backend built with Node.js, Express, and MySQL to support a blog/movie platform. Provides endpoints to fetch movie data and reviews, handles database operations, and enables CORS for client-side interaction from a React front-end.
+- [Full Stack Movie Platform – Frontend](https://github.com/willymariino/webapp-react) – Front-end SPA built with React and Vite, designed to consume a REST API for a blog platform. Includes dynamic routing, responsive layout, and modular component structure. Connected to a Node.js + MySQL back-end 
+- [Full Stack Movie Platform – Backend](https://github.com/willymariino/webapp-express) – RESTful API backend built with Node.js, Express, and MySQL to support a blog/movie platform. Provides endpoints to fetch movie data and reviews, handles database operations, and enables CORS for client-side interaction from a React front-end.
 - [react-context-api](https://github.com/willymariino/react-context-api)
 Single Page Application built with React and Context API, designed to fetch external data and display dynamic routes. Demonstrates global state management without prop drilling, navigation via React Router, and responsive detail views. Data is fetched from the D&D Monsters API.
 - [React Multi-Field Post Form](https://github.com/willymariino/react-post-form)
